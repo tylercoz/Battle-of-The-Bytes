@@ -1,3 +1,5 @@
+from: [leetcode](https://leetcode.com/problems/palindrome-number/description/)
+
 # Goal
 
 Given a number `n`, return if that number is a [palindrome](https://en.wikipedia.org/wiki/Palindrome) or not

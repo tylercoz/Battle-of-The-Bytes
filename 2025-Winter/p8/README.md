@@ -1,3 +1,5 @@
+From: [leetcode](https://leetcode.com/problems/text-justification/description/)
+
 # Goal
 
 Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.
